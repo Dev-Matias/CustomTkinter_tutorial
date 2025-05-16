@@ -67,7 +67,12 @@ class CalculatorApp:
             self.display.delete(0, ctk.END)
         elif text == "=":
             try:
-                result = eval(self.display.get())
+                result = eval(self.display.get())# eval para evaluar la expresión matemática
+                # Se recomienda no usar eval en producción
+                # debido a problemas de seguridad, pero es útil para este ejemplo
+                # y para aprender a usar la calculadora
+                # Se puede usar una librería como sympy para evaluar expresiones matemáticas
+                # de forma segura
                 self.display.delete(0, ctk.END)
                 self.display.insert(0, str(result))
             except:
