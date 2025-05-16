@@ -110,7 +110,17 @@ button.grid(row=1, column=0, columnspan=2, padx=10, pady=10)
 ```
 
 **Ejercicio 7:** Crea un diseño de 3x3 con etiquetas en cada celda.
-
+Tips: wiget `grid()` tiene los parámetros `row` y `column` para definir la posición de cada widget.
+Tips: Puedes usar `columnspan` para que un widget ocupe varias columnas.
+Tips: Puedes usar `rowspan` para que un widget ocupe varias filas.
+Tips: Puedes usar `sticky` para alinear el widget dentro de la celda.
+Tips: Puedes usar `padx` y `pady` para agregar espacio entre los widgets.
+Tips: Puedes usar `weight` para definir el tamaño de cada fila y columna.
+Tips: Puedes usar `grid_columnconfigure()` y `grid_rowconfigure()` para definir el tamaño de cada fila y columna.
+Tips: Puedes usar `grid_remove()` para ocultar un widget.
+Tips: Puedes usar `grid_forget()` para eliminar un widget del grid.
+Tips: Puedes usar `grid_slaves()` para obtener una lista de todos los widgets en el grid.
+Tips: Puedes usar `grid_size()` para obtener el tamaño del grid.
 ## Parte 4: Widgets Avanzados
 
 ### 4.1 Combobox
