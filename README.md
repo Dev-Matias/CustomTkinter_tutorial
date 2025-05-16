@@ -88,6 +88,10 @@ switch.pack(pady=10)
 ```
 
 **Ejercicio 6:** Crea un switch que habilite/deshabilite un botón.
+Tip: El widget `Button` tiene un método `configure()` que permite cambiar su estado.
+Tip: Usa el método `switch.get()` para obtener el estado del switch.
+Tip: Usa el método `switch.configure(state="disabled")` para deshabilitar el botón.
+Tip: Usa el método `myboton.configure(state="normal")` para habilitar el botón.
 
 ## Parte 3: Diseño con Grid
 
