@@ -68,7 +68,8 @@ entry = ctk.CTkEntry(app, placeholder_text="Escribe algo")
 entry.pack(pady=10)
 
 def get_text():
-    print(entry.get())
+    print(entry.get())# entry.get() obtiene el texto de la entrada
+    entry.delete(0, ctk.END)  # Limpia la entrada después de obtener el texto
 
 btn_get = ctk.CTkButton(app, text="Obtener texto", command=get_text)
 btn_get.pack()
