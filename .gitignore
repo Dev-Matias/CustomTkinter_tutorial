@@ -1,5 +1,5 @@
 .venv/
-python_env_creator/
+python_venv_cretor/
 __pycache__/
 *.pyc
 *.pyo
