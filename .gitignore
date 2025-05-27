@@ -1,1 +1,8 @@
-.venv
+.venv/
+python_env_creator/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+plyaground-python/
+ejercicios/visor_de_widgets/
