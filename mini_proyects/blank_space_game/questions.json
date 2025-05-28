@@ -1,0 +1,286 @@
+[
+  {
+    "pregunta": "La palabra reservada para definir una función en Python es ______.",
+    "respuesta": "def"
+  },
+  {
+    "pregunta": "Para crear un bucle que se repite mientras una condición es verdadera, usamos ______.",
+    "respuesta": "while"
+  },
+  {
+    "pregunta": "La instrucción para terminar la ejecución de un bucle prematuramente es ______.",
+    "respuesta": "break"
+  },
+  {
+    "pregunta": "Para manejar excepciones en Python, usamos un bloque ______ ... except.",
+    "respuesta": "try"
+  },
+  {
+    "pregunta": "La palabra reservada para importar módulos en Python es ______.",
+    "respuesta": "import"
+  },
+  {
+    "pregunta": "Una función anónima en Python se crea con la palabra clave ______.",
+    "respuesta": "lambda"
+  },
+  {
+    "pregunta": "El valor booleano para 'falso' en Python es ______.",
+    "respuesta": "False"
+  },
+  {
+    "pregunta": "Para verificar si un elemento está en una lista, usamos el operador ______.",
+    "respuesta": "in"
+  },
+  {
+    "pregunta": "La palabra reservada para definir una clase en Python es ______.",
+    "respuesta": "class"
+  },
+  {
+    "pregunta": "Para devolver un valor desde una función, se utiliza la palabra clave ______.",
+    "respuesta": "return"
+  },
+  {
+    "pregunta": "La función para obtener la longitud de una lista o cadena es ______().",
+    "respuesta": "len"
+  },
+  {
+    "pregunta": "Para imprimir datos en la consola, usamos la función ______().",
+    "respuesta": "print"
+  },
+  {
+    "pregunta": "Para convertir un valor a un entero, usamos ______().",
+    "respuesta": "int"
+  },
+  {
+    "pregunta": "El método para agregar un elemento al final de una lista es .______().",
+    "respuesta": "append"
+  },
+  {
+    "pregunta": "Para obtener la entrada del usuario desde la consola, usamos la función ______().",
+    "respuesta": "input"
+  },
+  {
+    "pregunta": "El método para dividir una cadena en una lista de subcadenas es .______().",
+    "respuesta": "split"
+  },
+  {
+    "pregunta": "Para crear una secuencia de números, a menudo se usa la función ______().",
+    "respuesta": "range"
+  },
+  {
+    "pregunta": "El método para obtener el valor asociado a una clave en un diccionario, con un valor por defecto si la clave no existe, es .______().",
+    "respuesta": "get"
+  },
+  {
+    "pregunta": "Para unir una lista de cadenas en una sola cadena, usamos el método 'separador'.______().",
+    "respuesta": "join"
+  },
+  {
+    "pregunta": "La función para determinar el tipo de un objeto es ______().",
+    "respuesta": "type"
+  },
+  {
+    "pregunta": "Del módulo 'math', la función para calcular la raíz cuadrada es ______().",
+    "respuesta": "sqrt"
+  },
+  {
+    "pregunta": "Para generar un entero aleatorio entre a y b (inclusive) del módulo 'random', usamos ______().",
+    "respuesta": "randint"
+  },
+  {
+    "pregunta": "Del módulo 'json', la función para convertir un objeto Python a una cadena JSON es ______().",
+    "respuesta": "dumps"
+  },
+  {
+    "pregunta": "Para obtener la fecha y hora actual del módulo 'datetime', podemos usar datetime.______().",
+    "respuesta": "now"
+  },
+  {
+    "pregunta": "Del módulo 'os.path', la función para verificar si una ruta existe es ______().",
+    "respuesta": "exists"
+  },
+  {
+    "pregunta": "En el módulo 're', la función para encontrar todas las ocurrencias de un patrón que no se superponen es ______().",
+    "respuesta": "findall"
+  },
+  {
+    "pregunta": "La constante matemática Pi se encuentra en el módulo 'math' como math.______.",
+    "respuesta": "pi"
+  },
+  {
+    "pregunta": "Para mezclar aleatoriamente los elementos de una lista 'in-place' del módulo 'random', usamos ______().",
+    "respuesta": "shuffle"
+  },
+  {
+    "pregunta": "Del módulo 'json', la función para cargar datos JSON desde una cadena es ______().",
+    "respuesta": "loads"
+  },
+  {
+    "pregunta": "Para obtener el directorio de trabajo actual del módulo 'os', usamos ______().",
+    "respuesta": "getcwd"
+  },
+  {
+    "pregunta": "Para salir de un script de Python, a menudo se usa sys.______().",
+    "respuesta": "exit"
+  },
+  {
+    "pregunta": "Del módulo 'collections', una clase útil para contar la frecuencia de elementos es ______.",
+    "respuesta": "Counter"
+  },
+  {
+    "pregunta": "Para crear un objeto de fecha en el módulo 'datetime', usamos datetime.______().",
+    "respuesta": "date"
+  },
+  {
+    "pregunta": "Del módulo 'os', para listar los archivos y directorios en una ruta, usamos ______().",
+    "respuesta": "listdir"
+  },
+  {
+    "pregunta": "En el módulo 're', la función para reemplazar ocurrencias de un patrón es ______().",
+    "respuesta": "sub"
+  },
+  {
+    "pregunta": "La clase principal para crear la ventana raíz en una aplicación CustomTkinter es ______.",
+    "respuesta": "CTk"
+  },
+  {
+    "pregunta": "Para crear un botón en CustomTkinter, usamos la clase ______.",
+    "respuesta": "CTkButton"
+  },
+  {
+    "pregunta": "Un widget para mostrar texto no editable en CustomTkinter es ______.",
+    "respuesta": "CTkLabel"
+  },
+  {
+    "pregunta": "Para campos de entrada de texto de una sola línea en CustomTkinter, usamos ______.",
+    "respuesta": "CTkEntry"
+  },
+  {
+    "pregunta": "Un widget contenedor que puede usarse para agrupar otros widgets en CustomTkinter es ______.",
+    "respuesta": "CTkFrame"
+  },
+  {
+    "pregunta": "Para una casilla de verificación en CustomTkinter, usamos la clase ______.",
+    "respuesta": "CTkCheckBox"
+  },
+  {
+    "pregunta": "Un widget para mostrar una barra de progreso en CustomTkinter es ______.",
+    "respuesta": "CTkProgressBar"
+  },
+  {
+    "pregunta": "Para un menú desplegable de opciones en CustomTkinter, usamos ______.",
+    "respuesta": "CTkOptionMenu"
+  },
+  {
+    "pregunta": "Un widget para entrada de texto multilínea en CustomTkinter es ______.",
+    "respuesta": "CTkTextbox"
+  },
+  {
+    "pregunta": "Para crear un interruptor (switch) en CustomTkinter, se utiliza la clase ______.",
+    "respuesta": "CTkSwitch"
+  },
+  {
+    "pregunta": "Para iniciar el bucle principal de una aplicación CustomTkinter, se llama al método .______().",
+    "respuesta": "mainloop"
+  },
+  {
+    "pregunta": "Para organizar widgets en CustomTkinter usando un sistema de empaquetado simple, llamamos al método .______().",
+    "respuesta": "pack"
+  },
+  {
+    "pregunta": "El método para configurar u obtener propiedades de un widget CustomTkinter después de su creación es .______().",
+    "respuesta": "configure"
+  },
+  {
+    "pregunta": "La propiedad de un CTkButton que especifica la función a llamar cuando se hace clic es '______'.",
+    "respuesta": "command"
+  },
+  {
+    "pregunta": "Para obtener el texto actual de un CTkEntry, usamos el método .______().",
+    "respuesta": "get"
+  },
+  {
+    "pregunta": "Para establecer el modo de apariencia (Light, Dark, System) en CustomTkinter, usamos customtkinter.______().",
+    "respuesta": "set_appearance_mode"
+  },
+  {
+    "pregunta": "La propiedad para establecer el radio de las esquinas de un widget CustomTkinter es '______'.",
+    "respuesta": "corner_radius"
+  },
+  {
+    "pregunta": "Para insertar texto en un CTkTextbox en una posición específica, usamos el método .______().",
+    "respuesta": "insert"
+  },
+  {
+    "pregunta": "El gestor de geometría que organiza los widgets en una estructura de rejilla en CustomTkinter es .______().",
+    "respuesta": "grid"
+  },
+  {
+    "pregunta": "La propiedad para establecer el color de primer plano (principal) de un widget CustomTkinter es '______'.",
+    "respuesta": "fg_color"
+  },
+  {
+    "pregunta": "Para eliminar texto de un CTkEntry o CTkTextbox, usamos el método .______().",
+    "respuesta": "delete"
+  },
+  {
+    "pregunta": "La propiedad que se usa para vincular una variable de control de Tkinter (como StringVar) a un CTkEntry o CTkLabel es '______'.",
+    "respuesta": "textvariable"
+  },
+  {
+    "pregunta": "Para establecer el tema de color predeterminado para la aplicación CustomTkinter, se usa customtkinter.______().",
+    "respuesta": "set_default_color_theme"
+  },
+  {
+    "pregunta": "El método para obtener el valor de una propiedad de un widget (similar a __getitem__) es .______().",
+    "respuesta": "cget"
+  },
+  {
+    "pregunta": "Para vincular un evento (como <Button-1>) a una función en un widget CustomTkinter, usamos el método .______().",
+    "respuesta": "bind"
+  },
+  {
+    "pregunta": "La propiedad para definir la fuente de texto de un widget CustomTkinter es '______'.",
+    "respuesta": "font"
+  },
+  {
+    "pregunta": "Para crear una ventana emergente (toplevel) en CustomTkinter, usamos la clase ______.",
+    "respuesta": "CTkToplevel"
+  },
+  {
+    "pregunta": "Un widget que permite crear pestañas en CustomTkinter es ______.",
+    "respuesta": "CTkTabview"
+  },
+  {
+    "pregunta": "Para mostrar una imagen en CustomTkinter, primero se carga con PIL.Image y luego se usa con la clase ______.",
+    "respuesta": "CTkImage"
+  },
+  {
+    "pregunta": "Para ocultar un widget que fue colocado con .pack(), usamos el método .______().",
+    "respuesta": "pack_forget"
+  },
+  {
+    "pregunta": "La propiedad de un CTkButton que define el texto que se muestra en él es '______'.",
+    "respuesta": "text"
+  },
+  {
+    "pregunta": "El operador lógico para 'Y' en Python es ______.",
+    "respuesta": "and"
+  },
+  {
+    "pregunta": "Para crear un conjunto (set) vacío en Python, debes usar ______().",
+    "respuesta": "set"
+  },
+  {
+    "pregunta": "El método de cadena para convertir todos los caracteres a minúsculas es .______().",
+    "respuesta": "lower"
+  },
+  {
+    "pregunta": "Del módulo 'random', la función para seleccionar un elemento aleatorio de una secuencia es ______().",
+    "respuesta": "choice"
+  },
+  {
+    "pregunta": "La palabra clave para indicar que una variable es de un ámbito superior (no global) dentro de una función anidada es ______.",
+    "respuesta": "nonlocal"
+  }
+]

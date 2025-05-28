@@ -1,8 +1,9 @@
-Basado el el tutorial y algo mas de la documentacion oficial de CustomTkinter
 # Mini Proyectos con CustomTkinter
-## 1. Calculadora
+Basado el el tutorial y algo mas de la documentacion oficial de CustomTkinter
+----
+## 1. Blank Space Game
 ### Descripción
-Calculadora simple con operaciones básicas (suma, resta, multiplicación, división) y una interfaz gráfica amigable.
+Rellena los espacios en blancos, los espacios en blancos son propiedades,metodos y palabras reservadas de Python3 y CustomTkinter.
 ### Características
 - Interfaz gráfica intuitiva.
 - Soporte para operaciones básicas.
