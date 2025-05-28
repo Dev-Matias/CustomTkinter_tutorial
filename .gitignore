@@ -6,3 +6,7 @@ __pycache__/
 *.pyd
 plyaground-python/
 ejercicios/visor_de_widgets/
+rellenar_esoacios.py
+rellenar.py
+questions.json
+preguntas_respuestas.json
