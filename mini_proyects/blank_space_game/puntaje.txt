@@ -1,0 +1,6 @@
+{
+    "puntaje": 11,
+    "correctas": 13,
+    "incorrectas": 2,
+    "fecha": "2025-06-01 21:23:21"
+}
